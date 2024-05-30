@@ -13,7 +13,7 @@
 
 ## 发表论文
 
-* MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors. He Zhang*, **Shenghao Ren***, Haolei Yuan*, Jianhui Zhao, Fan Li, Shuangpeng Sun, Zhenghao Liang, Tao Yu✝, **Qiu Shen✝**, **Xun Cao✝**. [C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR). 2024.
+* MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors. He Zhang*, **Shenghao Ren***, Haolei Yuan*, Jianhui Zhao, Fan Li, Shuangpeng Sun, Zhenghao Liang, Tao Yu†, **Qiu Shen†**, **Xun Cao†**. [C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR). 2024.
 
 ## 演示视频
 
