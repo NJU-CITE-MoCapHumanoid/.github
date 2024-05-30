@@ -17,4 +17,5 @@ Here is **Motion Capture and Humanoid group** in [CITE](https://cite.nju.edu.cn)
 
 ## Demos
 
-* MMVP [![MMVP](https://img.youtube.com/vi/sksAVPmlDd8/0.jpg)](https://www.youtube.com/watch?v=sksAVPmlDd8)
+* MMVP 
+  [![MMVP](https://res.cloudinary.com/marcomontalbano/image/upload/v1717050481/video_to_markdown/images/youtube--sksAVPmlDd8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=sksAVPmlDd8 "MMVP")
