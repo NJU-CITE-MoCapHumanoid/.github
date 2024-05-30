@@ -17,4 +17,4 @@
 
 ## 演示视频
 
-* MMVP <iframe width="560" height="315" src="https://www.youtube.com/embed/sksAVPmlDd8?si=pk2FBMR322XC_IGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+* MMVP [![MMVP](https://img.youtube.com/vi/sksAVPmlDd8/0.jpg)](https://www.youtube.com/watch?v=sksAVPmlDd8)
