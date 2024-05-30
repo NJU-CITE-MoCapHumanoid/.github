@@ -2,7 +2,7 @@
 
 English | [简体中文](https://github.com/NJU-CITE-MoCapHumanoid/.github/blob/main/profile/README_CN.md)
 
-Here is **Motion Capture and Humanoid group** in [CITE](https://cite.nju.edu.cn) (Computational Imaging Technology) Lab, Nanjing University. 
+Here is **Motion Capture and Humanoid group** in [CITE](https://cite.nju.edu.cn) (Computational Imaging Technology) Lab, Nanjing University. We focus on exploring the fields of **Virtual Reality** and **Embodied Intelligence**, concentrating on the perception and animation of human motion. Our goal is to achieve the mapping of human actions to digital humans and humanoid robots. Specifically, this includes research on **human motion capture algorithms**, **human motion retargeting algorithms**, and **humanoid robot animation algorithms**.
 
 ## Members
 
