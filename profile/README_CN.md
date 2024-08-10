@@ -15,7 +15,7 @@
 
 ## 发表论文
 
-* Leveraging RGB-Pressure for Whole-body Human-to-Humanoid Motion Imitation. **Yi Lu**, **Shenghao Ren**, **Qiu Shen†**, **Xun Cao**. [C]//Proceedings of the 32st ACM International Conference on Multimedia (ACM MM). 2024.
+* Leveraging RGB-Pressure for Whole-body Human-to-Humanoid Motion Imitation. **Yi Lu**, **Shenghao Ren**, **Qiu Shen†**, **Xun Cao**. [C]//Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM). 2024.
 * MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors. He Zhang\*, **Shenghao Ren**\*, Haolei Yuan\*, Jianhui Zhao, Fan Li, Shuangpeng Sun, Zhenghao Liang, Tao Yu†, **Qiu Shen†**, **Xun Cao†**. [C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR). 2024.
 
 ## 演示视频
