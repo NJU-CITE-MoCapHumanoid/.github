@@ -8,7 +8,7 @@
 
 ## 成员
 
-* 沈秋（副教授） | :email:[邮箱](mailto:shenqiu@nju.edu.cn) | :link:[主页](https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html)
+* 沈秋（副教授） | :email:[邮箱](mailto:shenqiu@nju.edu.cn) | :link:[主页](https://shenqiu.njucite.cn/)
 * 芦毅（博士研究生） | :email:[email](mailto:yi.lu@smail.nju.edu.cn) | :link:[homepage](https://yeelou.github.io/) | [github](https://github.com/YeeLou)
 * 赵天翼（硕士研究生） | :email:[email](mailto:502022230100@smail.nju.edu.cn)
 * 任晟昊（硕士研究生） | :email:[email](mailto:shenghaoren@smail.nju.edu.cn) | :link:[homepage](https://www.wjrzm.com) | [github](https://github.com/wjrzm)
