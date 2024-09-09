@@ -8,7 +8,7 @@ Here is **Motion Capture and Humanoid group** in [CITE](https://cite.nju.edu.cn)
 
 ## Members
 
-* Qiu Shen (Associate Professor) | :email:[email](mailto:shenqiu@nju.edu.cn) | :link:[homepage](https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html)
+* Qiu Shen (Associate Professor) | :email:[email](mailto:shenqiu@nju.edu.cn) | :link:[homepage]([https://cite.nju.edu.cn/People/Faculty/20220722/i226168.html](https://shenqiu.njucite.cn/))
 * Yi Lu (Ph.D.) | :email:[email](mailto:yi.lu@smail.nju.edu.cn) | :link:[homepage](https://yeelou.github.io/) | [github](https://github.com/YeeLou)
 * Tianyi Zhao (M.S.) | :email:[email](mailto:502022230100@smail.nju.edu.cn)
 * Shenghao Ren (M.S.) | :email:[email](mailto:shenghaoren@smail.nju.edu.cn) | :link:[homepage](https://www.wjrzm.com) | [github](https://github.com/wjrzm)
