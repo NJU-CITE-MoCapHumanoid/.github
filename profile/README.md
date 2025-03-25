@@ -15,6 +15,7 @@ Here is **Motion Capture and Humanoid group** in [CITE](https://cite.nju.edu.cn)
 
 ## Publications
 
+* MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond. **Shenghao Ren\***, **Yi Lu\***, Jiayi Huang, Jiayi Zhao, He Zhang, Tao Yu, **Qiu Shen†**, **Xun Cao**. [C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR). 2025.
 * Leveraging RGB-Pressure for Whole-body Human-to-Humanoid Motion Imitation. **Yi Lu**, **Shenghao Ren**, **Qiu Shen†**, **Xun Cao**. [C]//Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM). 2024.
 * MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors. He Zhang\*, **Shenghao Ren**\*, Haolei Yuan\*, Jianhui Zhao, Fan Li, Shuangpeng Sun, Zhenghao Liang, Tao Yu†, **Qiu Shen†**, **Xun Cao†**. [C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR). 2024.
 
@@ -22,3 +23,6 @@ Here is **Motion Capture and Humanoid group** in [CITE](https://cite.nju.edu.cn)
 
 * MMVP 
   [![MMVP](https://res.cloudinary.com/marcomontalbano/image/upload/v1717050481/video_to_markdown/images/youtube--sksAVPmlDd8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=sksAVPmlDd8 "MMVP")
+
+* MotionPRO
+  [![MotionPRO](https://i.ytimg.com/vi/UkUj3kiR5ss/maxresdefault.jpg)](https://youtu.be/UkUj3kiR5ss "MotionPRO")
